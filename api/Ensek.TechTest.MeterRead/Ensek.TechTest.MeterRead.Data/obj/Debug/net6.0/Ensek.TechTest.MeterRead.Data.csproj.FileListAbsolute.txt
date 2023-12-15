@@ -1,0 +1,14 @@
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Data.deps.json
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Data.runtimeconfig.json
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Data.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Data.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.csproj.AssemblyReference.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.AssemblyInfoInputs.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.AssemblyInfo.cs
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.csproj.CoreCompileInputs.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\refint\Ensek.TechTest.MeterRead.Data.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Data.genruntimeconfig.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Data\obj\Debug\net6.0\ref\Ensek.TechTest.MeterRead.Data.dll

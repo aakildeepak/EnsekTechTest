@@ -1,0 +1,12 @@
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.deps.json
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.csproj.AssemblyReference.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.AssemblyInfoInputs.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.AssemblyInfo.cs
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.csproj.CoreCompileInputs.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\refint\Ensek.TechTest.MeterRead.Domain.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Domain\obj\Debug\net6.0\ref\Ensek.TechTest.MeterRead.Domain.dll

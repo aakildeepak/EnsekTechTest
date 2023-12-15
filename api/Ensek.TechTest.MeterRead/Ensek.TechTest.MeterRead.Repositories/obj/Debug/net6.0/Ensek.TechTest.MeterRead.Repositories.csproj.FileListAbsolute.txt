@@ -1,0 +1,17 @@
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.deps.json
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Data.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Data.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\bin\Debug\net6.0\Ensek.TechTest.MeterRead.Domain.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.csproj.AssemblyReference.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.AssemblyInfoInputs.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.AssemblyInfo.cs
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.csproj.CoreCompileInputs.cache
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.csproj.CopyComplete
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\refint\Ensek.TechTest.MeterRead.Repositories.dll
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\Ensek.TechTest.MeterRead.Repositories.pdb
+C:\Maran\Akil\Ensek.TechTest\api\Ensek.TechTest.MeterRead\Ensek.TechTest.MeterRead.Repositories\obj\Debug\net6.0\ref\Ensek.TechTest.MeterRead.Repositories.dll

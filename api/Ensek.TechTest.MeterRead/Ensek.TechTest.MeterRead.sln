@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensek.TechTest.MeterRead.Api", "Ensek.TechTest.MeterRead.Api\Ensek.TechTest.MeterRead.Api.csproj", "{B8EDDEE6-3D9A-43B0-9B9B-8B9374C7AA99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensek.TechTest.MeterRead.Services", "Ensek.TechTest.MeterRead.Services\Ensek.TechTest.MeterRead.Services.csproj", "{51057D1C-D2FB-478F-9059-82F6A4104E97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensek.TechTest.MeterRead.Repositories", "Ensek.TechTest.MeterRead.Repositories\Ensek.TechTest.MeterRead.Repositories.csproj", "{C64E4BD9-71B3-42AE-BFB3-99D8C941D22E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensek.TechTest.MeterRead.Data", "Ensek.TechTest.MeterRead.Data\Ensek.TechTest.MeterRead.Data.csproj", "{D63DEB06-7800-4762-8629-7DD93F5EFC21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensek.TechTest.MeterRead.Domain", "Ensek.TechTest.MeterRead.Domain\Ensek.TechTest.MeterRead.Domain.csproj", "{CB6085DD-B258-4F9A-BA57-5E635F8597E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{BA6CEB3C-E03A-4AC0-87C9-DDA5B84015E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensek.TechTest.MeterRead.Services.Tests", "Ensek.TechTest.MeterRead.Services.Tests\Ensek.TechTest.MeterRead.Services.Tests.csproj", "{D76A309C-C898-4C3F-8CC4-079D552E7D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EDDEE6-3D9A-43B0-9B9B-8B9374C7AA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EDDEE6-3D9A-43B0-9B9B-8B9374C7AA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EDDEE6-3D9A-43B0-9B9B-8B9374C7AA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EDDEE6-3D9A-43B0-9B9B-8B9374C7AA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51057D1C-D2FB-478F-9059-82F6A4104E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51057D1C-D2FB-478F-9059-82F6A4104E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51057D1C-D2FB-478F-9059-82F6A4104E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51057D1C-D2FB-478F-9059-82F6A4104E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64E4BD9-71B3-42AE-BFB3-99D8C941D22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64E4BD9-71B3-42AE-BFB3-99D8C941D22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64E4BD9-71B3-42AE-BFB3-99D8C941D22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64E4BD9-71B3-42AE-BFB3-99D8C941D22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63DEB06-7800-4762-8629-7DD93F5EFC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63DEB06-7800-4762-8629-7DD93F5EFC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63DEB06-7800-4762-8629-7DD93F5EFC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63DEB06-7800-4762-8629-7DD93F5EFC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6085DD-B258-4F9A-BA57-5E635F8597E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6085DD-B258-4F9A-BA57-5E635F8597E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6085DD-B258-4F9A-BA57-5E635F8597E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6085DD-B258-4F9A-BA57-5E635F8597E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76A309C-C898-4C3F-8CC4-079D552E7D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76A309C-C898-4C3F-8CC4-079D552E7D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76A309C-C898-4C3F-8CC4-079D552E7D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76A309C-C898-4C3F-8CC4-079D552E7D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D76A309C-C898-4C3F-8CC4-079D552E7D99} = {BA6CEB3C-E03A-4AC0-87C9-DDA5B84015E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {842092DD-14FF-4D36-A078-DC3D994AB81C}
+	EndGlobalSection
+EndGlobal

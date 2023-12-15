@@ -1,0 +1,16 @@
+<div class="container">
+    <div>
+        <input
+            #uploadFileTarget
+            type="file"
+            class="hidden"
+            (change)="onFileChanged($event)"
+            accept=".csv"
+        />
+    </div>
+    <button type="button" (click)="onUpload()">Upload CSV</button>
+</div>
+<div class="status-container">
+    <div *ngIf="isLoading">Uploading...</div>
+    <div *ngIf="responseMessage" [innerHTML]="getSafeHtml(responseMessage)"></div>
+</div>
